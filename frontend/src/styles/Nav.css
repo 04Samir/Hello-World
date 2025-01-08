@@ -1,0 +1,15 @@
+/*
+    Nav CSS
+    -------
+*/
+
+.navbar.default {
+    background-color: transparent;
+    transition: all var(--transition-delay);
+}
+
+.navbar.scrolled {
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    box-shadow: 0 0 10px var(--bs-tertiary-color);
+}

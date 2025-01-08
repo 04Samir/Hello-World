@@ -1,0 +1,12 @@
+aiomysql
+argon2-cffi
+cryptography
+fastapi
+httpx
+orjson
+pyyaml
+ua-parser
+user-agents
+uvicorn[standard]
+PyJWT
+SQLAlchemy

@@ -1,0 +1,24 @@
+/*
+    Cards CSS
+    ----------
+*/
+
+
+/* General Cards */
+.card {
+    transition: all var(--transition-delay);
+}
+
+/* Home Cards */
+.home-card {
+    transition: all var(--transition-delay);
+}
+
+a .home-card-footer:hover {
+    text-decoration: underline;
+}
+
+.home-card:hover {
+    background-color: var(--hover);
+    transform: scale(var(--transform-scale));
+}

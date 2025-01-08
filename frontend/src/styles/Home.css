@@ -1,0 +1,27 @@
+/*
+    Home CSS
+    --------
+*/
+
+.why-us.item {
+    border-radius: 0.375rem
+}
+
+.why-us.icon svg {
+    filter: drop-shadow(0 0 10px var(--bs-tertiary-color));
+}
+
+.why-us.item,
+.why-us.icon {
+    transition: all var(--transition-delay);
+}
+
+.why-us.item:hover {
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    box-shadow: 0 0 30px 5px var(--bs-tertiary-color);
+}
+
+.why-us.item:hover {
+    transform: scale(var(--transform-scale));
+}

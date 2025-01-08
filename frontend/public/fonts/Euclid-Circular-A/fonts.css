@@ -1,0 +1,74 @@
+/*
+    Euclid Circular A
+    -----------------
+*/
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Bold'), url('ttf/Euclid-Circular-A-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Bold Italic'), url('ttf/Euclid-Circular-A-Bold-Italic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Italic'), url('ttf/Euclid-Circular-A-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Light'), url('ttf/Euclid-Circular-A-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Light Italic'), url('ttf/Euclid-Circular-A-Light-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Medium'), url('ttf/Euclid-Circular-A-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Medium Italic'), url('ttf/Euclid-Circular-A-Medium-Italic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A Regular'), url('ttf/Euclid-Circular-A-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A SemiBold'), url('ttf/Euclid-Circular-A-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Euclid Circular A';
+    src: local('Euclid Circular A SemiBold Italic'), url('ttf/Euclid-Circular-A-SemiBold-Italic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}

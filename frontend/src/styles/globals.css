@@ -1,0 +1,54 @@
+/*
+    Global CSS
+    ----------
+*/
+
+@import 'Cards.css';
+@import 'Home.css';
+@import 'Nav.css';
+@import 'Themes.css';
+
+
+:root {
+    --euclid-circular-a-font-family: 'Euclid Circular A', sans-serif;
+    --roboto-mono-font-family: 'Roboto Mono', monospace;
+    
+    --transition-delay: 0.3s;
+    --transform-scale: 1.05;
+}
+
+
+body {
+    height: 100%;
+    min-height: 100vh;
+
+    background: var(--bs-gradient) no-repeat;
+    background-color: var(--bs-gradient);
+
+    font-family: var(--euclid-circular-a-font-family);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand,
+.navbar-nav {
+    font-weight: bold !important;
+    font-family: var(--roboto-mono-font-family);
+}
+
+a {
+    text-decoration: none;
+    transition: all 0.15s ease-in-out;
+}
+
+main {
+    overflow: hidden;
+}
+
+.fancy:hover {
+    background-color: var(--hover);
+}
