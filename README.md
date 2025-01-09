@@ -18,7 +18,7 @@ You can View a Live Development Version of the Project at the Above Link.
 
 **HelloWorld** is Currently Built with the Following Technologies:
 
-- **Front-End**: [React.JS](https://reactjs.org) with BootStrap CSS
+- **Front-End**: [React.JS](https://reactjs.org) with [BootStrap CSS](https://getbootstrap.com)
 - **Back-End**: [Python-FastAPI](https://fastapi.tiangolo.com)
 - **Database**: [MySQL](https://www.mysql.com) with SQL Injection Prevention
 - **Authentication**:
